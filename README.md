@@ -4,7 +4,7 @@
 </h2>
 </div>
 
-Freelance & Open-Source Developer
+Open-Source Developer
 
 <h2>Contact Me</h2>
 
